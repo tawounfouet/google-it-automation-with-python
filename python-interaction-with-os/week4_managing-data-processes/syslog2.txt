@@ -1,0 +1,7 @@
+Jul 6 14:01:01 computer.name CRON[29440]: USER (naughty_user)
+Jul 6 14:01:10 computer.name CRON[29440]: USER (naughty_user) FAILED to authorize user with PAM (Authentication service cannot retrieve authentication info)
+Jul 6 14:01:12 computer.name CRON[29438]: USER (awful_user)
+Jul 6 14:01:20 computer.name CRON[29438]: USER (naughty_user) FAILED to authorize user with PAM (Authentication service cannot retrieve authentication info)
+Jul 6 14:01:30 computer.name CRON[29438]: USER (awful_user) FAILED to authorize user with PAM (Authentication service cannot retrieve authentication info)
+Jul 6 14:02:23 computer.name CRON[29438]: USER (thomas_user) FAILED to authorize user with PAM (Authentication service cannot retrieve authentication info)
+Jul 6 14:02:50 computer.name CRON[29440]: USER (thomas_user) FAILED to authorize user with PAM (Authentication service cannot retrieve authentication info)
